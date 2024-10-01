@@ -1,0 +1,8 @@
+[
+  "test_app.py::test_add_book",
+  "test_app.py::test_add_customer",
+  "test_app.py::test_index",
+  "test_app.py::test_return_book",
+  "test_app.py::test_view_customers",
+  "test_app.py::test_view_late_loans"
+]

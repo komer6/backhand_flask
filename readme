@@ -1,0 +1,23 @@
+# Library Management System
+
+## About
+The Library Management System is designed to help manage books, customers, and loans in a library environment. It allows for easy tracking of book loans, returning books, and viewing customers.
+
+## Features
+- Add, view, and delete customers.
+- Add, view, and delete books.
+- Loan books to customers and track their return dates.
+- Check for late loans and view loan history.
+
+## Technologies Used
+- **Flask**: Web framework for Python.
+- **SQLAlchemy**: ORM for database interactions.
+- **SQLite**: Database used for data storage.
+- **Bootstrap**: For styling the web application.
+- **Python**: Programming language used for development.
+
+## Installation
+
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+pip install -r requirements.txt
